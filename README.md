@@ -1,7 +1,7 @@
 # IT-and-Law
 Anna-Louisa Ottow - is this passable?
 
-##1.Privacy Checklist 
+## 1.Privacy Checklist 
 
 Principle 1 - Purpose of collection of personal information 
 
@@ -43,7 +43,7 @@ If using personal data and publishing it somewhere for your own research/analysi
 
  
 
-##2. Privacy Policy 
+## 2. Privacy Policy 
 
 https://www.trademe.co.nz/MyTradeMe/Sell/Current.aspx 
 
@@ -88,7 +88,7 @@ You have the right to ask for a copy of any personal information we hold about y
  
 
 
-##Explain how your privacy policy implements each of the five principles you analysed in the Privacy Checklist you created. 
+# Explain how your privacy policy implements each of the five principles you analysed in the Privacy Checklist you created. 
 
  
 Principle 1 - Purpose of collection of personal information 
