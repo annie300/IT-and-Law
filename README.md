@@ -1,37 +1,37 @@
 # IT-and-Law
-Anna-Louisa Ottow - is this passable?
+Anna-Louisa Ottow id 20210606- is this passable?
 
 ## 1.Privacy Checklist 
 
-Principle 1 - Purpose of collection of personal information 
+# Principle 1 - Purpose of collection of personal information 
 
 Only ask for information which is relevant to the use of the web application 
 
 Explain why the information is relevant to the user 
 
 
-Principle 5 - Storage and security of personal information 
+# Principle 5 - Storage and security of personal information 
 
 If using another entity to store information, make sure all measures are taken to secure the safe and private transfer of data 
 
 If backing up data, make sure changes that happen with the original copy apply to the back up copy 
 
 
-Principle 6 - Access to personal information 
+# Principle 6 - Access to personal information 
 
 Confirm with individuals if you hold personal information about them when they ask 
 
 Reply to individuals within a set period of time with their personal information 
 
 
-Principle 9 - Agency not to keep personal information for longer than necessary 
+# Principle 9 - Agency not to keep personal information for longer than necessary 
 
 When a user no longer has an account with you web application delete their information 
 
 Or if the data has been on file for a certain period of time then delete it also 
 
 
-Principle 10 - Limits on use of personal information 
+# Principle 10 - Limits on use of personal information 
 
 Get permission from a user if you will use their data for a purpose other than the ones specified 
 
@@ -45,13 +45,13 @@ If using personal data and publishing it somewhere for your own research/analysi
 
 ## 2. Privacy Policy 
 
-https://www.trademe.co.nz/MyTradeMe/Sell/Current.aspx 
+https://www.trademe.co.nz 
 
 Trade me is based in New Zealand and users can buy and sell things and advertise jobs and properties. Data that is collected is related to authentication, using the services and when purchasing a listing eg. Cars (reg. No/license plate) 
 
  
 
-Trade Me Privacy Policy: 
+# Trade Me Privacy Policy: 
 
 We collect personal information from you, including information about your: 
 
